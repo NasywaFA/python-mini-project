@@ -1,0 +1,13 @@
+My birthday hm? Fine :D
+Tapi kamu harus menyelesaikan ini dulu:
+
+text #1:
+60b8db2a92605516a330a511522ffc19c1c12824188b6721f42eac3b1c838e96
+(b64, s256)
+
+
+text #2:
+5d51de70eed8869e95c38f2669d373e8c44f742a7c4891333a35608d666aff6a
+(s1, b64, s256, s256)
+
+Format: {YY __ __}

@@ -1,0 +1,13 @@
+Try again bruh, sorry.. :D and good luck!
+
+text #3:
+V1g4WCo4UkI4WU5BJFM5WitBMVI2RlRBVCs5UEg5Q0M5T1RBQjFBKkNCRjFBQk45KzBBRFQ5UUY2V004L1k5ODdCT1pBU045UE45Mkc2SlpBTlM4NzFBTDFCNSo2L0g5OjBBWU5BQURCU1RBRU45WVI2N0RCUk45JFM5ODY5IDFCWU5BK0g5V0w2R1k4NU02T0g5Nys4QURCVlRBNVM5QVZDUVZDMzRFTFFFNyRDOjhEU1BFKlZEKlZEKlZEKlZEN1VEKyo4Slk4LTBBKk5BRUg4Vyo4N0RCUzA5NUlBMys4NEc2UUlCJUlCWTA5TklCMEM5TUg5R1RBSFg2SlM4SCs5RFM4OkNCQzY5N0lCNi1BVllBM0RCV0g5Oio4NS1BRTdCREM5VlM4RlI2K004My1BOlNBNUg5QUg4JEg5TDdCQ0w2MC1BJSo5NzdCVklCOEg4Lkg5RDdCMVg2RFpBQ0g4QjdCNDdBRzE=
+
+clue 1: you can solve this with this web 
+"https://gchq.github.io/CyberChef/#recipe=From_Base64('A-Za-z0-9%2B/%3D',true,false/disabled)From_Base45('0-9A-Z%20$%25*%2B%5C%5C-./:',true/disabled)From_Base32('A-Z2-7%3D',true/disabled)From_Base92(/disabled)From_Base85('!-u',true,'z'/disabled)&ieol=CRLF&oeol=CR"
+
+clue 2: b64, b45, b32, b64, b92, b85 (start form left)
+
+clue 3: if you see some massage or '' just delete it, it will error if u don't
+
+Format: {YY __ __}
