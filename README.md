@@ -9,7 +9,7 @@ Each folder contains an independent project with its own purpose.
 ##  How to Run
 
 ### 1 Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/NasywaFA/python-mini-project.git
 cd your-repo-name
 
 ### 2 Install dependencies (if required)
